@@ -2,7 +2,7 @@
 
 #### <span style="font-size: 18px; color: #000000; font-weight: bold;">Context</span>
 <p style="font-size: 15px; color: #333333;">
-    This repository demonstrates how to implement Linear Regression using Batch Gradient Descent completely from scratch using Python and NumPy. The objective of this project was to gain a deep understanding of how linear regression works internally by manually coding each step of the algorithm rather than relying on high-level libraries like scikit-learn.
+    This repository demonstrates how to implement Linear Regression using Batch Gradient Descent completely from scratch using Python and NumPy. The objective of this project was to gain a deeper understanding of how linear regression works internally by manually coding each step of the algorithm rather than relying on high-level libraries like scikit-learn.
 </p>
 
 #### <span style="font-size: 18px; color: #000000; font-weight: bold;">Dataset</span>
